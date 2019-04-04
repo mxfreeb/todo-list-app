@@ -1,0 +1,18 @@
+.app-header {
+  align-items: center;
+}
+
+.app-header h1 {
+  flex-grow: 1;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  color: #434343;
+  margin-bottom: 55px;
+}
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: grey;
+}
